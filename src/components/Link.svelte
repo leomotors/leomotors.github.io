@@ -19,6 +19,6 @@
 <style lang="postcss">
   button {
     @apply border-2 border-slate-400 bg-slate-800 hover:bg-slate-700;
-    @apply p-3 transition-all rounded-lg flex flex-row gap-2 cursor-pointer;
+    @apply p-3 transition-all rounded-lg flex flex-row gap-2 cursor-pointer select-none;
   }
 </style>
