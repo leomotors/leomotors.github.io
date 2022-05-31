@@ -2,6 +2,7 @@
 
 import adapter from "@sveltejs/adapter-static";
 import preprocess from "svelte-preprocess";
+import path from "node:path";
 
 /** @type {import("@sveltejs/kit").Config} */
 export default {
@@ -21,6 +22,13 @@ export default {
     }),
     prerender: {
       default: true,
+    },
+    vite: {
+      resolve: {
+        alias: {
+          $components: path.resolve("./src/components"),
+        },
+      },
     },
   },
 };
