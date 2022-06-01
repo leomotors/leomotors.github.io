@@ -97,7 +97,7 @@
 
 <style lang="postcss">
   main {
-    @apply flex flex-col gap-4 justify-center items-center min-h-screen;
+    @apply flex flex-col gap-4 justify-center items-center min-h-screen py-6 px-1;
     @apply bg-slate-900 text-white text-center;
   }
 
