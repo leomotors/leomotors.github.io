@@ -29,7 +29,7 @@
 
   <section>
     <!-- All Icons are from https://icons.getbootstrap.com/ the next comments are icon name -->
-    <Link name="Portfolio" to="https://portfolio.leomotors.vercel.app">
+    <Link name="Portfolio" to="https://portfolio.leomotors.me">
       <!-- award -->
       <path
         d="M9.669.864 8 0 6.331.864l-1.858.282-.842 1.68-1.337 1.32L2.6 6l-.306 1.854 1.337 1.32.842 1.68 1.858.282L8 12l1.669-.864 1.858-.282.842-1.68 1.337-1.32L13.4 6l.306-1.854-1.337-1.32-.842-1.68L9.669.864zm1.196 1.193.684 1.365 1.086 1.072L12.387 6l.248 1.506-1.086 1.072-.684 1.365-1.51.229L8 10.874l-1.355-.702-1.51-.229-.684-1.365-1.086-1.072L3.614 6l-.25-1.506 1.087-1.072.684-1.365 1.51-.229L8 1.126l1.356.702 1.509.229z"
@@ -39,14 +39,14 @@
       />
     </Link>
 
-    <Link name="Resume" to="https://resume.leomotors.vercel.app">
+    <Link name="Resume" to="https://resume.leomotors.me">
       <!-- briefcase -->
       <path
         d="M6.5 1A1.5 1.5 0 0 0 5 2.5V3H1.5A1.5 1.5 0 0 0 0 4.5v8A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-8A1.5 1.5 0 0 0 14.5 3H11v-.5A1.5 1.5 0 0 0 9.5 1h-3zm0 1h3a.5.5 0 0 1 .5.5V3H6v-.5a.5.5 0 0 1 .5-.5zm1.886 6.914L15 7.151V12.5a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5V7.15l6.614 1.764a1.5 1.5 0 0 0 .772 0zM1.5 4h13a.5.5 0 0 1 .5.5v1.616L8.129 7.948a.5.5 0 0 1-.258 0L1 6.116V4.5a.5.5 0 0 1 .5-.5z"
       />
     </Link>
 
-    <Link name="Blog" to="https://leomotors.gitbook.io/blog">
+    <Link name="Blog" to="https://blog.leomotors.me">
       <!-- journal-richtext -->
 
       <path
@@ -60,7 +60,7 @@
       />
     </Link>
 
-    <Link name="Repo List" to="https://repos.leomotors.vercel.app">
+    <Link name="Repo List" to="https://repos.leomotors.me">
       <!-- code-square -->
       <path
         d="M14 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h12zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2z"
