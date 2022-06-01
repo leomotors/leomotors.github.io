@@ -1,5 +1,5 @@
-# svelte-static
+# leomotors.github.io
 
-Template for making Static SveltKit Website, to be deployed at GitHub Pages
+Or [leomotors.me](https://leomotors.me)
 
-Extracted from [you-are-a-failure/web](https://github.com/Leomotors/you-are-a-failure)
+It is my main homepage, contain links to my several sites
