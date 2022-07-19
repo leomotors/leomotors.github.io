@@ -1,4 +1,7 @@
-module.exports = {
+// @ts-check
+
+/** @type {import("tailwindcss").Config} */
+const config = {
   content: ["./src/**/*.{html,js,svelte,ts}"],
 
   theme: {
@@ -7,3 +10,5 @@ module.exports = {
 
   plugins: [],
 };
+
+module.exports = config;
