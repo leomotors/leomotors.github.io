@@ -20,7 +20,6 @@
   },
   "devDependencies": {
     "@octokit/types": "^6.40.0",
-    "@playwright/test": "^1.23.4",
     "@sveltejs/adapter-static": "^1.0.0-next.37",
     "@sveltejs/kit": "1.0.0-next.379",
     "@typescript-eslint/eslint-plugin": "^5.30.7",

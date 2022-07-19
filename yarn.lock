@@ -134,18 +134,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@playwright/test@npm:^1.23.4":
-  version: 1.23.4
-  resolution: "@playwright/test@npm:1.23.4"
-  dependencies:
-    "@types/node": "*"
-    playwright-core: 1.23.4
-  bin:
-    playwright: cli.js
-  checksum: 7004308fde2c3ff1062b50115f9db9eb74d3e0c6cdee42d723a3a4ccbf811c3cf2be934c75d706c464c17a8839ae9237c2abbf90ec46bd3ddec8d34c24dc9c4b
-  languageName: node
-  linkType: hard
-
 "@rollup/pluginutils@npm:^4.2.1":
   version: 4.2.1
   resolution: "@rollup/pluginutils@npm:4.2.1"
@@ -1750,7 +1738,6 @@ __metadata:
   resolution: "leomotors.github.io@workspace:."
   dependencies:
     "@octokit/types": ^6.40.0
-    "@playwright/test": ^1.23.4
     "@sveltejs/adapter-static": ^1.0.0-next.37
     "@sveltejs/kit": 1.0.0-next.379
     "@typescript-eslint/eslint-plugin": ^5.30.7
@@ -2197,15 +2184,6 @@ __metadata:
   version: 2.3.0
   resolution: "pify@npm:2.3.0"
   checksum: 9503aaeaf4577acc58642ad1d25c45c6d90288596238fb68f82811c08104c800e5a7870398e9f015d82b44ecbcbef3dc3d4251a1cbb582f6e5959fe09884b2ba
-  languageName: node
-  linkType: hard
-
-"playwright-core@npm:1.23.4":
-  version: 1.23.4
-  resolution: "playwright-core@npm:1.23.4"
-  bin:
-    playwright: cli.js
-  checksum: 347a40f2fbcc9ee896c5cf8d8211ffa7a200e22f154e879d9e829ee6bd365acc1c69c8b11a64a96a9d2fae9c85e859c995680be1a15b5e74c367ffa53425c9c9
   languageName: node
   linkType: hard
 
