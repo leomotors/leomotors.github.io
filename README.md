@@ -1,5 +1,5 @@
 # leomotors.github.io
 
-Or [leomotors.me](https://leomotors.me)
+This repository is moved to [Leomotors/Leomotors](leomotors.me)
 
-It is my main homepage, contain links to my several sites
+and https://leomotors.github.io will be redirected to https://leomotors.me
